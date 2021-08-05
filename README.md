@@ -1,0 +1,3 @@
+# L_M_S
+Library management system developed using C
+Please fork me....
